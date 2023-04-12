@@ -1,0 +1,17 @@
+.button{
+  position:relative;
+  display:inline-block;
+  width:150px;
+  height:50px;
+  color:#5c2w9w;
+  overflow:hidden;
+}
+
+.button:focus{
+  animation:morph 1.25s forward;
+}
+
+.button > * {
+  position:absolute;
+  
+}

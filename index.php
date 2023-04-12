@@ -11,6 +11,32 @@
         <link rel="stylesheet" type="text/css" href="..\css\fontawesome.css">
                 
         <script src="https://kit.fontawesome.com/3e4174c3da.js" crossorigin="anonymous"></script>
+
+        <!-- Hotjar Tracking Code for my site -->
+        <script>
+            (function(h,o,t,j,a,r){
+              h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+              h._hjSettings={hjid:3440913,hjsv:6};
+              a=o.getElementsByTagName('head')[0];
+              r=o.createElement('script');r.async=1;
+              r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+              a.appendChild(r);
+            })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+        </script>
+
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q901Y93185"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'G-Q901Y93185');
+        </script>
+        
+
+  
+  
         <style>
             .container-video video{
                 position:absolute;

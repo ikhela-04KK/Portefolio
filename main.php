@@ -1,18 +1,12 @@
 <?php 
 
-    //ecrire la base de donnée  :ok 
-
-
-    // essayer d'envoyer à une base de donner les informations que l'on vas rentrer ici  : ok 
-    // apprendre Ajax c'est primordiale : ok 
-    // faire un syteme graphique ou l'email et le numero pourront safficher :ok
   if(isset($_POST["Connexion"])){
     $email = $_POST["email"];
     $number = $_POST["tel"];
     $time = date("Y-m-d H:i:s");
     try {
         //creation de la base de donnée 
-        $db = new PDO ("sqlite:database.db");
+        $db = new PDO ("sqlite:database.db");// $db = new PDO("mysql:host=localhost", "dbname=formulaire", "root", "")
 
         // Configuration de la base donnée : en modifiant son mode recupération et la façon dont il gère les erreurs  
         $db -> setAttribute(PDO::ATTR_CASE, PDO::CASE_LOWER);

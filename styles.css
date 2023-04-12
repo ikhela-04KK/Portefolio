@@ -1,4 +1,25 @@
  /*C:\HTML ET CSS FULL COURSE\css\style.css Début du css le 27 Mars à 18:18 */
+
+/* modifier la barre de defilement   */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: transparent;
+  border-radius: 10px;
+  opacity: 0;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  opacity: 0;
+}
+
+
 *{
   padding:0;
   margin: 0;
@@ -9,6 +30,7 @@
 
 html{
   width:100%;
+  
 }
 body{
   background:hsl(300deg 2% 12%);
@@ -79,27 +101,115 @@ h3{
 /* todo; Header */
 header{
   width: 100%;
-  height: 100%;
-  justify-content:space-between;
-  margin:0 auto;
-  background: hsl(300deg 2% 12%);
-  z-index: -1;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 205px repeat(3, 1fr) 205px;
+  grid-template-rows: 50px repeat(3, 1fr) 48px;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+header .div1 { grid-area: 1 / 1 / 6 / 2; }
+haeder .div2 { 
+  grid-area: 1 / 5 / 6 / 6; 
+  height:649px;
+}
+header .div4 { 
+  grid-area: 2 / 2 / 5 / 5;
+  background-image:url("image/7.svg");
+  background-repeat:no-repeat;
+  background-size:503px;
+  background-position:center top 33px;;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  flex-direction:column;
 }
 
+header .div4 .info {
+  transform: translateY(192px);
+  text-align: center;
+}
+
+header .div4 .info h1 {
+  font-family:'Fira Code', monospace;
+  font-size:30px;
+  line-height: 1.1em;
+  margin-top: 20px;
+  margin-bottom: 8px;
+  color:#FF7F7F;;
+}
+
+header .div4 .info p{
+  font-family:'Lato', monospace;
+  font-size:20px;
+  font-weight: bold;
+  color:#d1d1d1;
+}
+
+header .div4 .info .btn-info{
+  margin-top:15px;
+  font-family:'Fira Code', monospace;
+  color:#1f1e1f;
+  font-size:16px;
+  background-color:#FF7F7F;; 
+  text-decoration: none;
+  border: 2px solid #FF7F7F;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 16px 56px;
+  border-radius:4px;  
+  display:inline-block;
+  margin-top:32px;
+  
+}
+
+header .div5{
+  grid-area: 5 / 5 / 6 / 6; 
+}
+header .div5 .btn{
+    text-decoration:none;
+    position: fixed;
+    left: auto;
+    top: auto;
+    right: 16px;
+    bottom: 16px;
+    padding: 11px 12px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #FF7F7F;
+    border-radius: 40px;
+/*     background-color: #fff; */
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+}
+
+header .div5 .btn:hover{
+/*   transform: scale(1.2); */
+  background-color: #FF7F7F;
+}  
+
 header nav{
-  height: 60px;
+  grid-area: 1 / 2 / 2 / 5;
+  height: 6%; /* adaptation de la hauteur en % */
   position: relative;
-  width: 100%;    display: flex;
+  width: 100%;
+  display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 10px;
-  margin: 11px 0;
-  z-index: 3;
+  padding: 0 1.6666667%; /* adaptation du padding en */
+  margin: 3.8% 0; /* adaptation du margin en % */
 }
 
 
 header nav h2{
   color:#D5A867;
+  color:#FFC2C2;
+  color:#FF7F7F;
+  color:#FFA07A;
+
 }
 
 header nav h2 span{
@@ -115,60 +225,39 @@ header nav .navbar_left ul{
   list-style: none;
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content:flex-end; 
+ 
 }
 
 header nav .navbar_left ul li{
   font-size: 17px;
+  padding: 20px;
 }
 
 header nav .navbar_left ul li:hover{
   cursor:pointer;
 }
 
-header nav .navbar_left  ul li a:hover{
-  color: #121212;
-  transition:.6s;
-}
 
 header nav .navbar_left ul li a{
   text-decoration: none;
-  color: #D5A867;
+  color: #d1d1d1;
   font-weight: bold;
   text-transform: capitalize;
 }
 
-.btn{
-  display:flex;
-  justify-content: flex-start;
-  background-color:inherit; 
-  color: rgb(207 207 207);
-  text-decoration: none;
-  border: 2px solid #D5A867;
-  font-weight: bold;
-  padding: 10px 25px;
-  border-radius:30px;  
-}
-
-.btn:hover{
-  transform: scale(1.2);
-  background-color: #D5A867;
-} 
 
 .logo{
     position: absolute;
-    z-index: 1;
+/*     z-index: 1; */
     /* height: 0; */
 }
 
-.logo img{
-  height: 3;margin: auto;
-  display: block;
-  object-fit: cover;
-/*Scale down will take the necessary specified space that is 40% x 40% without stretching the image*/
-}
 
-.prest{
+
+
+
+/* .prest{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -186,7 +275,7 @@ header nav .navbar_left ul li a{
 .nom{
   color:#d5a867;
   font-size:3em;
-}
+} */
 /* todo: FIN de header */
 
 /* todo debut du ALLprest   */

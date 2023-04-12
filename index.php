@@ -5,12 +5,16 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Portefolio Ikhela</title>
-        <link rel="stylesheet" href="./styles.css">
-        <link rel="stylesheet" type="text/css" href="..\css\brands.css">
-        <link rel="stylesheet" type="text/css" href="..\css\all.css">
-        <link rel="stylesheet" type="text/css" href="..\css\fontawesome.css">
-                
+        <!-- police prise sur google fonts  -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@700&family=Lato:wght@100&display=swap" rel="stylesheet">
+        
         <script src="https://kit.fontawesome.com/3e4174c3da.js" crossorigin="anonymous"></script>
+
+        <!-- pour le designs-->
+        <link rel="stylesheet" href="styles.css">
 
         <!-- Hotjar Tracking Code for my site -->
         <script>
@@ -34,28 +38,6 @@
           gtag('config', 'G-Q901Y93185');
         </script>
         
-
-  
-  
-        <style>
-            .container-video video{
-                position:absolute;
-                top:0;
-                left:0;
-                width: 100%;
-                height:100%;
-                object-fit:cover; 
-                z-index:2;
-                
-            }
-            .container-video{
-                right:0;
-                width:100%;
-                height: 100vh;
-                background: hsl(300deg 2% 12%);
-                z-index: 1;
-            }            
-        </style>
     </head>
     <body> 
             <input type="checkbox" id="checkbox">
@@ -65,10 +47,24 @@
             </label>
     <!-- 23_03_2022 à 17h:07 création de son portefolio -->
             <header> 
-                <div class="container-video">
-                    <video src="..\image\dev_video2.mp4" muted loop autoplay width="500" height="315" frameborder="0" allowfullscreen></video>
+                  <!-- pour les espaces de 205px à droite et à gauche-->
+                  <div class="div1"></div>
+                  <div class="div2"></div>
+                  <div class="div4">
+                    <div class="info">
+                      <h1>Hi Marc-Ephrem , i'm Web Developer </h1>
+                      <p>every subjects , every technologies i make everything you need</p>
+                      <a href="#" class="btn-info">HIRE ME</a>
+                    </div>
+                  </div>
+                  <div class="div5">
+                    <a href="#" class="btn" title="curriculum Vitae">Curriuclum Vitae</a>
+                  </div>
+  
+
+                    <!-- Mettre la nav-bar dans une autre div-->
                     <nav>
-                        <h2 class="logo-h">Port<span>folio</span></h2>
+                        <h2 class="logo-h">Ikhe<span>la</span></h2>
                         <!--!debut de navbar avec boutton sur les côtés -->
                         <div class="navbar_left">
                             <ul>
@@ -76,19 +72,9 @@
                                 <li><a href="#">About</a></li>
                                 <li><a href="#">Competence</a></li>
                                 <li><a href="#">Parcours</a></li>
-                                <li><a href="#">Contact Us</a></li>
                             </ul>
                         </div>
-                        <a href="#" class="btn" title="curriculum Vitae">CV</a>
                     </nav>
-                    <div class="prest"> 
-                        <h4>Salut, je suis</h4>
-                        <h1 class="nom">Koffi Kan Marc-Ephrem,</h1>
-                        <h3 class="nom">Je suis Developpeur web</h3>
-                    </div>
-                </div>
-                 
-                <!--! je dois supprimer , lorsque je vais mettre le css-->
             </header>
             <!--todo: Fin du conteneur -->
             <!--Presentation-->

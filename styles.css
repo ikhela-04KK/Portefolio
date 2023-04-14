@@ -238,7 +238,6 @@ header nav .navbar_left ul li:hover{
   cursor:pointer;
 }
 
-
 header nav .navbar_left ul li a{
   text-decoration: none;
   color: #d1d1d1;
@@ -246,51 +245,31 @@ header nav .navbar_left ul li a{
   text-transform: capitalize;
 }
 
-
 .logo{
     position: absolute;
-/*     z-index: 1; */
-    /* height: 0; */
 }
 
 
-
-
-
-/* .prest{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    z-index: 3;
-    bottom: -180px;position: relative;
-    font-size: 100%;
-}
-.prest h4{
-  color: hsl(0deg 0% 81%);
-  margin-bottom:2%;
-  font-size:2em;
-}
-
-.nom{
-  color:#d5a867;
-  font-size:3em;
-} */
 /* todo: FIN de header */
 
 /* todo debut du ALLprest   */
-.Allprest{
-  margin:0 auto;
-  color: #D5A867;
-  position:relative;
-}
+
 /* Apropos */
 section.grp-allprest {
-  background: hsl(300deg 2% 12%);
+/*   background: hsl(300deg 2% 12%); */
+  background: #FFC2C2;
+  background:#FF7F7F;
+  background: #FFA07A;
   width: 100%;
   height: 100%;
   padding: 48px;
   font-family:var(--fonts);
+}
+
+.Allprest{
+  margin:0 auto;
+  color: #1f1e1f;
+  position:relative;
 }
 
 .Allprest .page {
@@ -319,8 +298,9 @@ section.grp-allprest {
 .row-page p {
 
   color: hsl(0deg 0% 100%);
-  font-weight: lighter;
+  font-weight: bold;
   margin: 20px;
+  font-family:'Lato';
   font-size: larger;
   letter-spacing: 1px;
 }
@@ -337,18 +317,12 @@ section.grp-allprest {
 
 .second-p a {
   text-decoration: none;
-  color: #d5a867;
+  color: #1f1e1f;
   text-transform: capitalize;
   font-weight: bold;
 }
 
-.second-p:hover {
-  color: white;
-}
 
-.second-p a:hover {
-  color: #D5D5A867;
-}
 .svig {
   max-width: 500px;
   max-height:400px;
@@ -366,19 +340,31 @@ section.grp-allprest {
   margin: 50px auto;
   padding:0 40px;
   /* height: 200vh; */
-  background: hsl(300deg 2% 12%);
-  color: #CFCFCF;
+/*   background: hsl(300deg 2% 12%); */
+  margin-top: 0px;
+  background:#ffe5b4;
+  color: #444444;
+  
 }
 .content{
   padding-bottom: 20px;
 }
 .content-web .content h3 {
-    font-weight: 900;
+    font-weight: bold;
     letter-spacing: 1.5px;
     font-size: 29px;
-    margin-bottom: 12px;
-    margin-top: -11px;
-  }
+    margin-bottom: 10px;
+    font-family: 'Fira Code';
+    margin-top: 39px;
+    color:#3f3d56;
+    text-transform:uppercase;
+}
+.content-web p{
+    color: #1f1e1f;
+    font-family: 'Lato';
+    letter-spacing: 1px;
+    font-weight: 900;
+}
 .content-web ul{
   padding:0;
   margin:0;
@@ -389,7 +375,7 @@ section.grp-allprest {
   left: 50%;
   width: 2px;
   height: 100%;
-  background: #CFCFCF;
+  background: #d8d7dd;
 }
 
 .content-web ul li{
@@ -413,47 +399,48 @@ section.grp-allprest {
     position: absolute;
     width: 10px;
     height: 10px;
-    top: 24px;
+    top: 71px;
     right: -6px;
-    background:#D5A867;
-    border-radius: 50%;
-    box-shadow: 0 0 0 3px rgba(213,168,103,0.2);              
+    background: #3f3d56;
+    color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 0 0 3px #d8d7dd;            
   }
 .content-web ul li:nth-child(even)::before{
     content: " ";
     position: absolute;
     width: 10px;
     height: 10px;
-    top: 27px;
+    top: 77px;
     left: -4px;
-    background:#D5A867;
-    border-radius: 50%;
-    box-shadow: 0 0 0 3px rgba(213,168,103,0.2);              
+    background: #3f3d56;
+    color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 0 0 3px rgb(216 215 221);
   }
+
   .content-web ul li:nth-child(even) .time{
     position: absolute;
-    top: 18px;
+    top: 62px;
     left: -165px;
     margin:0;
     padding:8px 16px;
-    background: #D5A867;
+    background: #3f3d56;
     color: #fff;
     border-radius: 20px;
-    box-shadow: 0 0 0 3px rgba(213,168,103,0.2);
+    box-shadow: 0 0 0 3px rgb(216 215 221)
   }
-  /*.content-web ul li h3{}*/
-  /*.content-web ul li p{}*/
-  /*.content-web ul li h4{}*/
+  
   .content-web ul li:nth-child(odd) .time{
     position: absolute;
-    top: 14px;
+    top: 58px;
     right: -165px;
     margin: 0;
     padding: 8px 16px ;
-    background: #D5A867;
+    background: #3f3d56;
     color: #fff;
     border-radius: 20px;
-    box-shadow: 0 0 0 3px rgba(213,168,103,0.2);
+    box-shadow: 0 0 0 3px #d8d7dd;
   }
 /* todo: Fin du content-web */
 
@@ -672,15 +659,16 @@ footer ul{
     /*padding-top: 50px;*/
   }
   .content-web ul li:nth-child(odd)::before{
-    top: 8px;
+    top: 25px;
     left: 3px;
   }
   .content-web ul li:nth-child(even)::before{
     top: -18px;
     left: 3px;
   }
+  
   .content-web ul li:nth-child(odd) .time {
-    top: -6px;
+    top: 11px;
     right: inherit;
     left: 50px;
   /* margin-bottom: 100px; */}

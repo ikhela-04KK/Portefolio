@@ -12,7 +12,7 @@
       href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@700&family=Lato&family=Poppins:wght@300&display=swap"
       rel="stylesheet"
     />
-
+  
     <script
       src="https://kit.fontawesome.com/3e4174c3da.js"
       crossorigin="anonymous"

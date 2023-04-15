@@ -1,5 +1,17 @@
 <?php 
-
+  // ajouter la configuration de l'api vonage pour envoyer des messages au mail qui a été enregistrer
+  $mail = new Mail();
+  $mail->setFrom('from@example.com', 'from');
+  $mail->setSubject('test');
+  $mail->addTo('to@example.com', 'to');
+  $mail->setHTMLTemplate('template');
+  $mail->setTextBody('text');
+  $mail->setHTMLBody('html');
+  $mail->setSubjectHeader('subject', 'header');
+  $mail->setFromHeader('from@example.com', 'from@example.com');
+  $mail->setReplyToHeader('replyto@example.com','replyto@example.com');
+  $mail->setReturnPath('return@example.com','return@example.com');
+  $mail->addAttachment('file.pdf', 'file.pdf', 'application/pdf');
   if(isset($_POST["Connexion"])){
     $email = $_POST["email"];
     $number = $_POST["tel"];

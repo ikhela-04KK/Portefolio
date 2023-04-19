@@ -1,0 +1,1596 @@
+Archive member included to satisfy reference by file (symbol)
+
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-check_fds.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-errno.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (rtld_errno)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-closedir.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__closedir)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rewinddir.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__rewinddir)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-readdir64.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__readdir64)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fdopendir.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__fdopendir)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getdents64.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-readdir64.os) (__getdents64)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (_dl_addr_inside_object)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-profil.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__profil)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-prof-freq.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__profile_frequency)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stat64.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__GI___stat64)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstat64.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__GI___fstat64)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lstat64.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__GI___lstat64)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstatat64.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__GI___fstatat64)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-openat64.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__openat64)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lseek64.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__lseek)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-access.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__access)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__GI___close_nocancel)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__GI___fcntl64_nocancel)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__GI___open64_nocancel)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__GI___read_nocancel)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__GI___pread64_nocancel)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__GI___write_nocancel)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__libc_scratch_buffer_set_array_size)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mmap64.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__mmap)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-munmap.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__munmap)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mprotect.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__mprotect)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__lll_lock_wait_private)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-uname.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__uname)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-_exit.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__GI__exit)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getpid.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__getpid)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-environ.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__environ)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setjmp.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__sigsetjmp)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-__longjmp.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__longjmp)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-sigaction.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-profil.os) (__sigaction)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-sigaction.os) (__libc_sigaction)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strdup.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__strdup)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (strcmp)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (strncmp)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (memchr)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (rawmemchr)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (memcmp)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (strchr)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (strlen)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (strnlen)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__stpcpy)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (strcspn)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (__mempcpy)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os (memset)
+/workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setitimer.os)
+                              /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-profil.os) (__setitimer)
+
+Merging program properties
+
+
+Discarded input sections
+
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-errno.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-closedir.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-profil.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-openat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-access.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-munmap.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-uname.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-_exit.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getpid.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-environ.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strdup.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setitimer.os)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+LOAD /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/9/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.property
+                0x0000000000000000       0x20
+ .note.gnu.property
+                0x0000000000000000       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.init
+ *(.rela.init)
+
+.rela.text
+ *(.rela.text)
+
+.rela.fini
+ *(.rela.fini)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rela.data
+ *(.rela.data)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rela.got
+ *(.rela.got)
+
+.rela.bss
+ *(.rela.bss)
+
+.rela.ldata
+ *(.rela.ldata)
+
+.rela.lbss
+ *(.rela.lbss)
+
+.rela.lrodata
+ *(.rela.lrodata)
+
+.rela.ifunc
+ *(.rela.ifunc)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT_NONE(.init))
+
+.plt
+ *(.plt)
+
+.plt.got
+ *(.plt.got)
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x0000000000000000    0x24b06
+ *(.text .stub)
+ .text          0x0000000000000000    0x1fc34 /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+                0x0000000000000000                _start
+                0x0000000000000008                _dl_start_user
+                0x00000000000013e0                handle_preload_list
+                0x0000000000006570                _dl_dst_count
+                0x0000000000006620                _dl_dst_substitute
+                0x0000000000006d60                _dl_init_paths
+                0x00000000000070d0                _dl_process_pt_gnu_property
+                0x0000000000008800                _dl_map_object
+                0x00000000000092c0                _dl_rtld_di_serinfo
+                0x000000000000a230                _dl_lookup_symbol_x
+                0x000000000000b1b0                _dl_setup_hash
+                0x000000000000b270                _dl_add_to_namespace_list
+                0x000000000000b310                _dl_new_object
+                0x000000000000b720                _dl_try_allocate_static_tls
+                0x000000000000b850                _dl_allocate_static_tls
+                0x000000000000b890                _dl_protect_relro
+                0x000000000000b900                _dl_reloc_bad_type
+                0x000000000000b9d0                _dl_relocate_object
+                0x000000000000d710                _dl_map_object_deps
+                0x000000000000e910                _dl_fixup
+                0x000000000000eac0                _dl_profile_fixup
+                0x000000000000f190                _dl_call_pltexit
+                0x000000000000f440                _dl_init
+                0x000000000000f570                _dl_fini
+                0x000000000000f9b0                _dl_debug_state
+                0x000000000000f9b0                __GI__dl_debug_state
+                0x000000000000f9c0                _dl_debug_initialize
+                0x00000000000101a0                _dl_sysdep_read_whole_file
+                0x0000000000010230                _dl_debug_printf
+                0x00000000000102e0                _dl_debug_printf_c
+                0x0000000000010390                _dl_dprintf
+                0x0000000000010430                _dl_printf
+                0x00000000000104e0                _dl_error_printf
+                0x0000000000010590                _dl_fatal_printf
+                0x0000000000010590                __GI__dl_fatal_printf
+                0x0000000000010640                _dl_name_match_p
+                0x00000000000106b0                _dl_higher_prime_number
+                0x0000000000010700                _dl_strtoul
+                0x0000000000010860                _dl_check_map_versions
+                0x0000000000010fc0                _dl_check_all_versions
+                0x0000000000011040                _dl_start_profile
+                0x0000000000011840                __GI__dl_mcount
+                0x0000000000011840                _dl_mcount
+                0x0000000000011d90                _dl_tls_static_surplus_init
+                0x0000000000011e20                _dl_assign_tls_modid
+                0x0000000000011f30                _dl_count_modids
+                0x0000000000011fa0                _dl_determine_tlsoffset
+                0x0000000000012150                _dl_get_tls_static_info
+                0x0000000000012170                _dl_allocate_tls_storage
+                0x0000000000012240                __GI__dl_allocate_tls_init
+                0x0000000000012240                _dl_allocate_tls_init
+                0x0000000000012490                __GI__dl_allocate_tls
+                0x0000000000012490                _dl_allocate_tls
+                0x00000000000124d0                _dl_deallocate_tls
+                0x00000000000124d0                __GI__dl_deallocate_tls
+                0x0000000000012560                _dl_update_slotinfo
+                0x00000000000127c0                __GI___tls_get_addr
+                0x00000000000127c0                ___tls_get_addr
+                0x0000000000012810                _dl_tls_get_addr_soft
+                0x0000000000012890                _dl_add_to_slotinfo
+                0x00000000000129b0                _dl_init_static_tls
+                0x0000000000012ae0                __tls_get_addr_slow
+                0x0000000000012b10                _dl_get_origin
+                0x0000000000012c80                _dl_scope_free
+                0x0000000000012d80                __GI___nptl_change_stack_perm
+                0x0000000000012d80                __nptl_change_stack_perm
+                0x0000000000012dc0                _dl_make_stacks_executable
+                0x0000000000013200                __GI__dl_find_dso_for_object
+                0x0000000000013200                _dl_find_dso_for_object
+                0x00000000000132d0                _dl_open
+                0x0000000000013600                _dl_show_scope
+                0x0000000000014410                _dl_close_worker
+                0x00000000000155b0                _dl_close
+                0x0000000000015620                _dl_runtime_profile_avx512
+                0x0000000000015aa0                _dl_runtime_profile_avx
+                0x0000000000015f20                _dl_runtime_profile_sse
+                0x0000000000016120                _dl_runtime_resolve_fxsave
+                0x00000000000161a0                _dl_runtime_resolve_xsave
+                0x0000000000016270                _dl_runtime_resolve_xsavec
+                0x0000000000016350                _dl_error_free
+                0x0000000000016380                _dl_exception_create
+                0x0000000000016380                __GI__dl_exception_create
+                0x0000000000016480                __GI__dl_exception_create_format
+                0x0000000000016480                _dl_exception_create_format
+                0x00000000000168e0                _dl_exception_free
+                0x00000000000168e0                __GI__dl_exception_free
+                0x0000000000016910                _dl_sort_maps
+                0x0000000000016ce0                _dl_lookup_direct
+                0x0000000000016eb0                _dl_call_libc_early_init
+                0x0000000000016f40                _dl_write
+                0x0000000000016f50                __thread_gscope_wait
+                0x0000000000017140                __tls_pre_init_tp
+                0x00000000000171a0                __tls_init_tp
+                0x0000000000017270                _dl_cache_libcmp
+                0x0000000000017a20                _dl_load_cache_lookup
+                0x0000000000017db0                _dl_unload_cache
+                0x0000000000017f20                __GI___tunable_set_val
+                0x0000000000017f50                __GI___tunables_init
+                0x00000000000184c0                __GI___tunables_print
+                0x00000000000185b0                __tunable_get_val
+                0x00000000000185b0                __GI___tunable_get_val
+                0x0000000000018620                _dl_make_tlsdesc_dynamic
+                0x00000000000188d0                _dl_unmap
+                0x0000000000018950                _dl_tlsdesc_return
+                0x0000000000018960                _dl_tlsdesc_undefweak
+                0x0000000000018980                _dl_tlsdesc_dynamic
+                0x0000000000018a20                __tls_get_addr
+                0x000000000001aa70                __x86_cpu_features
+                0x000000000001aaa0                _dl_x86_init_cpu_features
+                0x000000000001aac0                _dl_x86_get_cpu_features
+                0x000000000001af20                _dl_cet_open_check
+                0x000000000001af30                _dl_cet_check
+                0x000000000001af40                _dl_tunable_set_hwcaps
+                0x000000000001ba50                _dl_tunable_set_x86_ibt
+                0x000000000001bad0                _dl_tunable_set_x86_shstk
+                0x000000000001bb50                _dl_sysdep_start
+                0x000000000001bfe0                _dl_sysdep_start_cleanup
+                0x000000000001bff0                _dl_show_auxv
+                0x000000000001c190                _dl_discover_osversion
+                0x000000000001c370                _dl_next_ld_env_entry
+                0x000000000001c3c0                unsetenv
+                0x000000000001c5f0                __rtld_malloc_init_stubs
+                0x000000000001c630                __sigjmp_save
+                0x000000000001c640                __strerror_r
+                0x000000000001c730                __GI___libc_fatal
+                0x000000000001c730                __libc_fatal
+                0x000000000001c750                __GI___chk_fail
+                0x000000000001c750                __chk_fail
+                0x000000000001c770                __GI___assert_fail
+                0x000000000001c770                __assert_fail
+                0x000000000001c840                __rtld_malloc_is_complete
+                0x000000000001caa0                __rtld_malloc_init_real
+                0x000000000001cba0                __GI___assert_perror_fail
+                0x000000000001cba0                __assert_perror_fail
+                0x000000000001cc00                _itoa
+                0x000000000001cc60                __strsep
+                0x000000000001cc60                strsep
+                0x000000000001cc60                __strsep_g
+                0x000000000001cd90                _dl_signal_exception
+                0x000000000001cde0                _dl_signal_error
+                0x000000000001ce40                _dl_signal_cexception
+                0x000000000001ced0                _dl_signal_cerror
+                0x000000000001cf60                _dl_catch_exception
+                0x000000000001d050                _dl_catch_error
+                0x000000000001d0a0                _dl_receive_error
+                0x000000000001d0f0                _rtld_catch_error
+                0x000000000001d100                _dl_resolve_conflicts
+                0x000000000001d360                _dl_important_hwcaps
+                0x000000000001dce0                _dl_hwcaps_split
+                0x000000000001dd10                _dl_hwcaps_contains
+                0x000000000001ddb0                _dl_hwcaps_split_masked
+                0x000000000001de10                _dl_hwcaps_subdirs_active
+                0x000000000001dfd0                _dl_usage
+                0x000000000001e020                _dl_version
+                0x000000000001e040                _dl_help
+                0x000000000001e590                _dl_diagnostics_print_string
+                0x000000000001e620                _dl_diagnostics_print_labeled_string
+                0x000000000001e670                _dl_diagnostics_print_labeled_value
+                0x000000000001e690                _dl_print_diagnostics
+                0x000000000001eb30                _dl_diagnostics_kernel
+                0x000000000001ebd0                _dl_diagnostics_cpu
+                0x000000000001f250                __rtld_mutex_init
+                0x000000000001f340                __brk
+                0x000000000001f340                brk
+                0x000000000001f370                sbrk
+                0x000000000001f370                __sbrk
+                0x000000000001f410                __getcwd
+                0x000000000001f410                getcwd
+                0x000000000001fa40                openat64
+                0x000000000001faa0                __alloc_dir
+                0x000000000001fb90                __opendir
+                0x000000000001fb90                opendir
+ *fill*         0x000000000001fc34        0xc 
+ .text          0x000000000001fc40       0xd6 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-check_fds.os)
+                0x000000000001fce0                __libc_check_standard_fds
+ .text          0x000000000001fd16        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-errno.os)
+ *fill*         0x000000000001fd16        0xa 
+ .text          0x000000000001fd20       0x2a /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-closedir.os)
+                0x000000000001fd20                __closedir
+                0x000000000001fd20                closedir
+ *fill*         0x000000000001fd4a        0x6 
+ .text          0x000000000001fd50       0x34 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rewinddir.os)
+                0x000000000001fd50                rewinddir
+                0x000000000001fd50                __rewinddir
+ *fill*         0x000000000001fd84        0xc 
+ .text          0x000000000001fd90       0x90 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-readdir64.os)
+                0x000000000001fd90                readdir
+                0x000000000001fd90                __readdir64
+                0x000000000001fd90                __readdir
+                0x000000000001fd90                readdir64
+ .text          0x000000000001fe20       0x8e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fdopendir.os)
+                0x000000000001fe20                fdopendir
+                0x000000000001fe20                __fdopendir
+ *fill*         0x000000000001feae        0x2 
+ .text          0x000000000001feb0       0x38 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getdents64.os)
+                0x000000000001feb0                __getdents
+                0x000000000001feb0                getdents64
+                0x000000000001feb0                __getdents64
+ *fill*         0x000000000001fee8        0x8 
+ .text          0x000000000001fef0       0x7b /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+                0x000000000001fef0                _dl_addr_inside_object
+ *fill*         0x000000000001ff6b        0x5 
+ .text          0x000000000001ff70       0xf7 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-profil.os)
+                0x000000000001ffc0                __profil
+                0x000000000001ffc0                profil
+ *fill*         0x0000000000020067        0x9 
+ .text          0x0000000000020070        0xb /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-prof-freq.os)
+                0x0000000000020070                __profile_frequency
+ *fill*         0x000000000002007b        0x5 
+ .text          0x0000000000020080       0x16 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stat64.os)
+                0x0000000000020080                stat64
+                0x0000000000020080                __stat
+                0x0000000000020080                __stat64
+                0x0000000000020080                stat
+                0x0000000000020080                __GI___stat64
+ *fill*         0x0000000000020096        0xa 
+ .text          0x00000000000200a0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstat64.os)
+                0x00000000000200a0                __GI___fstat64
+                0x00000000000200a0                fstat64
+                0x00000000000200a0                fstat
+                0x00000000000200a0                __fstat64
+                0x00000000000200a0                __fstat
+ .text          0x00000000000200d0       0x19 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lstat64.os)
+                0x00000000000200d0                __lstat64
+                0x00000000000200d0                lstat
+                0x00000000000200d0                lstat64
+                0x00000000000200d0                __GI___lstat64
+                0x00000000000200d0                __lstat
+ *fill*         0x00000000000200e9        0x7 
+ .text          0x00000000000200f0       0x2e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstatat64.os)
+                0x00000000000200f0                fstatat
+                0x00000000000200f0                __fstatat
+                0x00000000000200f0                fstatat64
+                0x00000000000200f0                __fstatat64
+                0x00000000000200f0                __GI___fstatat
+                0x00000000000200f0                __GI___fstatat64
+ *fill*         0x000000000002011e        0x2 
+ .text          0x0000000000020120       0x66 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-openat64.os)
+                0x0000000000020120                __openat64
+                0x0000000000020120                __libc_openat64
+                0x0000000000020120                __openat
+                0x0000000000020120                openat
+ *fill*         0x0000000000020186        0xa 
+ .text          0x0000000000020190       0x28 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lseek64.os)
+                0x0000000000020190                __lseek64
+                0x0000000000020190                lseek
+                0x0000000000020190                __libc_lseek64
+                0x0000000000020190                __lseek
+                0x0000000000020190                __libc_lseek
+                0x0000000000020190                lseek64
+ *fill*         0x00000000000201b8        0x8 
+ .text          0x00000000000201c0       0x26 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-access.os)
+                0x00000000000201c0                access
+                0x00000000000201c0                __access
+ *fill*         0x00000000000201e6        0xa 
+ .text          0x00000000000201f0       0x26 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+                0x00000000000201f0                __GI___close_nocancel
+ *fill*         0x0000000000020216        0xa 
+ .text          0x0000000000020220       0x93 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+                0x0000000000020220                __fcntl64_nocancel_adjusted
+                0x0000000000020280                __fcntl64_nocancel
+                0x0000000000020280                __GI___fcntl64_nocancel
+ *fill*         0x00000000000202b3        0xd 
+ .text          0x00000000000202c0       0x7e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+                0x00000000000202c0                __GI___open_nocancel
+                0x00000000000202c0                __open_nocancel
+                0x00000000000202c0                __GI___open64_nocancel
+                0x00000000000202c0                __open64_nocancel
+ *fill*         0x000000000002033e        0x2 
+ .text          0x0000000000020340       0x28 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+                0x0000000000020340                __read_nocancel
+                0x0000000000020340                __GI___read_nocancel
+ *fill*         0x0000000000020368        0x8 
+ .text          0x0000000000020370       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+                0x0000000000020370                __GI___pread64_nocancel
+                0x0000000000020370                __pread64_nocancel
+ .text          0x00000000000203a0       0x28 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+                0x00000000000203a0                __GI___write_nocancel
+                0x00000000000203a0                __write_nocancel
+ *fill*         0x00000000000203c8        0x8 
+ .text          0x00000000000203d0       0xb0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+                0x00000000000203d0                __libc_scratch_buffer_set_array_size
+ .text          0x0000000000020480       0x99 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mmap64.os)
+                0x0000000000020480                __mmap
+                0x0000000000020480                mmap
+                0x0000000000020480                __mmap64
+                0x0000000000020480                mmap64
+ *fill*         0x0000000000020519        0x7 
+ .text          0x0000000000020520       0x24 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-munmap.os)
+                0x0000000000020520                munmap
+                0x0000000000020520                __GI___munmap
+                0x0000000000020520                __GI_munmap
+                0x0000000000020520                __munmap
+ *fill*         0x0000000000020544        0xc 
+ .text          0x0000000000020550       0x24 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mprotect.os)
+                0x0000000000020550                __mprotect
+                0x0000000000020550                __GI___mprotect
+                0x0000000000020550                __GI_mprotect
+                0x0000000000020550                mprotect
+ *fill*         0x0000000000020574        0xc 
+ .text          0x0000000000020580      0x118 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+                0x0000000000020580                __lll_lock_wait_private
+                0x00000000000205f0                __lll_lock_wait
+                0x0000000000020660                __lll_lock_wake_private
+                0x0000000000020680                __lll_lock_wake
+ *fill*         0x0000000000020698        0x8 
+ .text          0x00000000000206a0       0x24 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-uname.os)
+                0x00000000000206a0                uname
+                0x00000000000206a0                __GI_uname
+                0x00000000000206a0                __uname
+                0x00000000000206a0                __GI___uname
+ *fill*         0x00000000000206c4        0xc 
+ .text          0x00000000000206d0       0x4a /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-_exit.os)
+                0x00000000000206d0                _Exit
+                0x00000000000206d0                __GI__exit
+                0x00000000000206d0                _exit
+ *fill*         0x000000000002071a        0x6 
+ .text          0x0000000000020720        0xc /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getpid.os)
+                0x0000000000020720                __getpid
+                0x0000000000020720                getpid
+                0x0000000000020720                __GI_getpid
+                0x0000000000020720                __GI___getpid
+ .text          0x000000000002072c        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-environ.os)
+ *fill*         0x000000000002072c        0x4 
+ .text          0x0000000000020730       0x5e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setjmp.os)
+                0x0000000000020730                __sigsetjmp
+                0x0000000000020730                __GI___sigsetjmp
+ *fill*         0x000000000002078e        0x2 
+ .text          0x0000000000020790       0x7c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-__longjmp.os)
+                0x0000000000020790                __longjmp
+ *fill*         0x000000000002080c        0x4 
+ .text          0x0000000000020810       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-sigaction.os)
+                0x0000000000020810                sigaction
+                0x0000000000020810                __sigaction
+ .text          0x0000000000020840      0x1b1 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+                0x0000000000020860                __libc_sigaction
+ *fill*         0x00000000000209f1        0xf 
+ .text          0x0000000000020a00       0x44 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strdup.os)
+                0x0000000000020a00                __strdup
+                0x0000000000020a00                strdup
+ *fill*         0x0000000000020a44        0xc 
+ .text          0x0000000000020a50     0x1449 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+                0x0000000000020a50                strcmp
+ *fill*         0x0000000000021e99        0x7 
+ .text          0x0000000000021ea0     0x1859 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+                0x0000000000021ea0                strncmp
+ *fill*         0x00000000000236f9        0x7 
+ .text          0x0000000000023700      0x323 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+                0x0000000000023700                memchr
+                0x0000000000023700                __memchr
+ *fill*         0x0000000000023a23        0xd 
+ .text          0x0000000000023a30      0x209 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+                0x0000000000023a30                __rawmemchr
+                0x0000000000023a30                rawmemchr
+ *fill*         0x0000000000023c39        0x7 
+ .text          0x0000000000023c40      0x400 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+                0x0000000000023c40                bcmp
+                0x0000000000023c40                memcmp
+ .text          0x0000000000024040      0x22a /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+                0x0000000000024040                index
+                0x0000000000024040                strchr
+ *fill*         0x000000000002426a        0x6 
+ .text          0x0000000000024270      0x19c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+                0x0000000000024270                strlen
+ *fill*         0x000000000002440c        0x4 
+ .text          0x0000000000024410      0x218 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+                0x0000000000024410                __strnlen
+                0x0000000000024410                strnlen
+ *fill*         0x0000000000024628        0x8 
+ .text          0x0000000000024630       0xec /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+                0x0000000000024630                stpcpy
+                0x0000000000024630                __stpcpy
+ *fill*         0x000000000002471c        0x4 
+ .text          0x0000000000024720       0xa7 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+                0x0000000000024720                strcspn
+ *fill*         0x00000000000247c7        0x9 
+ .text          0x00000000000247d0      0x208 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+                0x00000000000247d0                mempcpy
+                0x00000000000247d0                __mempcpy
+                0x00000000000247e0                memmove
+                0x00000000000247e0                memcpy
+ *fill*         0x00000000000249d8        0x8 
+ .text          0x00000000000249e0       0xf2 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+                0x00000000000249e0                memset
+ *fill*         0x0000000000024ad2        0xe 
+ .text          0x0000000000024ae0       0x26 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setitimer.os)
+                0x0000000000024ae0                setitimer
+                0x0000000000024ae0                __setitimer
+ *(.gnu.warning)
+
+.fini
+ *(SORT_NONE(.fini))
+
+.rodata         0x0000000000000000     0x1578
+ *(.rodata)
+ .rodata        0x0000000000000000     0x14f5 /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+ *fill*         0x00000000000014f5        0x3 
+ .rodata        0x00000000000014f8       0x40 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .rodata        0x0000000000001538       0x40 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+
+.rodata.str1.1  0x0000000000000000     0x18a2
+ .rodata.str1.1
+                0x0000000000000000     0x188d /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+ .rodata.str1.1
+                0x000000000000188d       0x14 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .rodata.str1.1
+                0x00000000000018a1        0x1 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstat64.os)
+
+.rodata.str1.8  0x0000000000000000     0x2f0f
+ .rodata.str1.8
+                0x0000000000000000     0x2ed1 /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+ *fill*         0x0000000000002ed1        0x7 
+ .rodata.str1.8
+                0x0000000000002ed8       0x37 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+
+.rodata.str1.16
+                0x0000000000000000      0x4c2
+ .rodata.str1.16
+                0x0000000000000000      0x4c2 /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+                0x0000000000000410                __GI__itoa_lower_digits
+                0x0000000000000410                _itoa_lower_digits
+                0x0000000000000490                _dl_hwcaps_subdirs
+
+.rodata.cst16   0x0000000000000000       0x10
+ .rodata.cst16  0x0000000000000000       0x10 /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+
+.rodata.cst4    0x0000000000000000        0x4
+ .rodata.cst4   0x0000000000000000        0x4 /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+
+.rodata.str1.32
+                0x0000000000000000       0x3b
+ .rodata.str1.32
+                0x0000000000000000       0x3b /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000     0x3af4
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000     0x2fe0 /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+                                       0x3048 (size before relaxing)
+ .eh_frame      0x0000000000002fe0       0x68 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .eh_frame      0x0000000000003048       0x38 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-closedir.os)
+ .eh_frame      0x0000000000003080       0x38 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .eh_frame      0x00000000000030b8       0x50 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .eh_frame      0x0000000000003108       0x50 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .eh_frame      0x0000000000003158       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .eh_frame      0x0000000000003188       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .eh_frame      0x00000000000031b8       0x48 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-profil.os)
+ .eh_frame      0x0000000000003200       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .eh_frame      0x0000000000003230       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stat64.os)
+ .eh_frame      0x0000000000003260       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .eh_frame      0x0000000000003290       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .eh_frame      0x00000000000032c0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .eh_frame      0x00000000000032f0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-openat64.os)
+ .eh_frame      0x0000000000003320       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .eh_frame      0x0000000000003350       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-access.os)
+ .eh_frame      0x0000000000003380       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .eh_frame      0x00000000000033b0       0x48 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .eh_frame      0x00000000000033f8       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .eh_frame      0x0000000000003428       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .eh_frame      0x0000000000003458       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .eh_frame      0x0000000000003488       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .eh_frame      0x00000000000034b8       0x60 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .eh_frame      0x0000000000003518       0x48 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .eh_frame      0x0000000000003560       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-munmap.os)
+ .eh_frame      0x0000000000003590       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .eh_frame      0x00000000000035c0       0x70 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .eh_frame      0x0000000000003630       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-uname.os)
+ .eh_frame      0x0000000000003660       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-_exit.os)
+ .eh_frame      0x0000000000003690       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getpid.os)
+ .eh_frame      0x00000000000036c0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .eh_frame      0x00000000000036f0       0x48 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .eh_frame      0x0000000000003738       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .eh_frame      0x0000000000003768       0xc8 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+                                         0xd0 (size before relaxing)
+ .eh_frame      0x0000000000003830       0x40 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strdup.os)
+ .eh_frame      0x0000000000003870       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .eh_frame      0x00000000000038a0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .eh_frame      0x00000000000038d0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .eh_frame      0x0000000000003900       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .eh_frame      0x0000000000003930       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .eh_frame      0x0000000000003960       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .eh_frame      0x0000000000003990       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .eh_frame      0x00000000000039c0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .eh_frame      0x00000000000039f0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .eh_frame      0x0000000000003a20       0x38 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .eh_frame      0x0000000000003a58       0x40 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .eh_frame      0x0000000000003a98       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .eh_frame      0x0000000000003ac8       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setitimer.os)
+                                         0x30 (size before relaxing)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges)
+
+.eh_frame
+ *(.eh_frame)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.exception_ranges
+ *(.exception_ranges)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+
+.got.plt
+ *(.got.plt)
+
+.data           0x0000000000000000     0x1028
+ *(.data)
+ .data          0x0000000000000000     0x1028 /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-errno.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-closedir.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-profil.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stat64.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-openat64.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-access.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-munmap.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-uname.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-_exit.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getpid.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-environ.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strdup.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .data          0x0000000000001028        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.data.rel.ro    0x0000000000000000     0x12f0
+ .data.rel.ro   0x0000000000000000     0x12f0 /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+                0x0000000000000090                __pointer_chk_guard_local
+                0x0000000000000098                _dl_skip_args
+                0x00000000000000a0                __GI__dl_argv
+                0x00000000000000a0                _dl_argv
+                0x00000000000000a8                _dl_argc
+                0x00000000000000c0                _rtld_global_ro
+                0x00000000000000c0                _rtld_local_ro
+                0x0000000000000450                __rtld_search_dirs
+                0x0000000000000480                __rtld_env_path_list
+                0x0000000000000490                __stack_prot
+                0x00000000000012a0                __x86_cpu_features_p
+                0x00000000000012a8                _dl_random
+                0x00000000000012b0                __libc_stack_end
+                0x00000000000012b0                __GI___libc_stack_end
+                0x00000000000012b8                __GI___libc_enable_secure
+                0x00000000000012b8                __libc_enable_secure
+                0x00000000000012c0                __rtld_realloc
+                0x00000000000012c8                __rtld_malloc
+                0x00000000000012d0                __rtld_free
+                0x00000000000012d8                __rtld_calloc
+                0x00000000000012e0                ___rtld_mutex_unlock
+                0x00000000000012e8                ___rtld_mutex_lock
+
+.data1
+ *(.data1)
+
+.bss            0x0000000000000000      0x1a0
+ *(.bss)
+ .bss           0x0000000000000000      0x168 /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+                0x0000000000000080                _r_debug
+                0x00000000000000f4                __nptl_initial_report_events
+                0x00000000000000f4                __GI___nptl_initial_report_events
+                0x0000000000000150                _dl_hwcaps_priorities_length
+                0x0000000000000158                _dl_hwcaps_priorities
+                0x0000000000000160                __curbrk
+ .bss           0x0000000000000168        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .bss           0x0000000000000168        0x4 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-errno.os)
+                0x0000000000000168                rtld_errno
+ .bss           0x000000000000016c        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-closedir.os)
+ .bss           0x000000000000016c        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .bss           0x000000000000016c        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .bss           0x000000000000016c        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .bss           0x000000000000016c        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .bss           0x000000000000016c        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ *fill*         0x000000000000016c        0x4 
+ .bss           0x0000000000000170       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-profil.os)
+ .bss           0x0000000000000190        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .bss           0x0000000000000190        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stat64.os)
+ .bss           0x0000000000000190        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .bss           0x0000000000000190        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .bss           0x0000000000000190        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .bss           0x0000000000000190        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-openat64.os)
+ .bss           0x0000000000000190        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .bss           0x0000000000000190        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-access.os)
+ .bss           0x0000000000000190        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .bss           0x0000000000000190        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .bss           0x0000000000000190        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .bss           0x0000000000000190        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .bss           0x0000000000000190        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .bss           0x0000000000000190        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .bss           0x0000000000000190        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .bss           0x0000000000000190        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .bss           0x0000000000000190        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-munmap.os)
+ .bss           0x0000000000000190        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .bss           0x0000000000000190        0x4 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+                0x0000000000000190                __pthread_force_elision
+ .bss           0x0000000000000194        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-uname.os)
+ .bss           0x0000000000000194        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-_exit.os)
+ .bss           0x0000000000000194        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getpid.os)
+ *fill*         0x0000000000000194        0x4 
+ .bss           0x0000000000000198        0x8 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-environ.os)
+                0x0000000000000198                _environ
+                0x0000000000000198                __environ
+                0x0000000000000198                environ
+ .bss           0x00000000000001a0        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .bss           0x00000000000001a0        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .bss           0x00000000000001a0        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .bss           0x00000000000001a0        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .bss           0x00000000000001a0        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strdup.os)
+ .bss           0x00000000000001a0        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .bss           0x00000000000001a0        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .bss           0x00000000000001a0        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .bss           0x00000000000001a0        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .bss           0x00000000000001a0        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .bss           0x00000000000001a0        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .bss           0x00000000000001a0        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .bss           0x00000000000001a0        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .bss           0x00000000000001a0        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .bss           0x00000000000001a0        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .bss           0x00000000000001a0        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .bss           0x00000000000001a0        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .bss           0x00000000000001a0        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.lbss
+ *(.lbss)
+
+.lrodata
+ *(.lrodata)
+
+.ldata
+ *(.ldata)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0xdec
+ *(.comment)
+ .comment       0x0000000000000000      0x86c /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+ .comment       0x000000000000086c       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .comment       0x0000000000000898       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-errno.os)
+ .comment       0x00000000000008c4       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-closedir.os)
+ .comment       0x00000000000008f0       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .comment       0x000000000000091c       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .comment       0x0000000000000948       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .comment       0x0000000000000974       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .comment       0x00000000000009a0       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .comment       0x00000000000009cc       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-profil.os)
+ .comment       0x00000000000009f8       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .comment       0x0000000000000a24       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stat64.os)
+ .comment       0x0000000000000a50       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .comment       0x0000000000000a7c       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .comment       0x0000000000000aa8       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .comment       0x0000000000000ad4       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-openat64.os)
+ .comment       0x0000000000000b00       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .comment       0x0000000000000b2c       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-access.os)
+ .comment       0x0000000000000b58       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .comment       0x0000000000000b84       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .comment       0x0000000000000bb0       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .comment       0x0000000000000bdc       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .comment       0x0000000000000c08       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .comment       0x0000000000000c34       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .comment       0x0000000000000c60       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .comment       0x0000000000000c8c       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .comment       0x0000000000000cb8       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .comment       0x0000000000000ce4       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-_exit.os)
+ .comment       0x0000000000000d10       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-environ.os)
+ .comment       0x0000000000000d3c       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .comment       0x0000000000000d68       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .comment       0x0000000000000d94       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strdup.os)
+ .comment       0x0000000000000dc0       0x2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-openat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strdup.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000     0x1300
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x9c0 /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+ .debug_aranges
+                0x00000000000009c0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_aranges
+                0x00000000000009f0       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_aranges
+                0x0000000000000a10       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_aranges
+                0x0000000000000a40       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_aranges
+                0x0000000000000a70       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_aranges
+                0x0000000000000aa0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_aranges
+                0x0000000000000ad0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_aranges
+                0x0000000000000b00       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_aranges
+                0x0000000000000b30       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_aranges
+                0x0000000000000b60       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_aranges
+                0x0000000000000b90       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_aranges
+                0x0000000000000bc0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_aranges
+                0x0000000000000bf0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_aranges
+                0x0000000000000c20       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_aranges
+                0x0000000000000c50       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_aranges
+                0x0000000000000c80       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_aranges
+                0x0000000000000cb0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_aranges
+                0x0000000000000ce0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_aranges
+                0x0000000000000d10       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_aranges
+                0x0000000000000d40       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_aranges
+                0x0000000000000d70       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_aranges
+                0x0000000000000da0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_aranges
+                0x0000000000000dd0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_aranges
+                0x0000000000000e00       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_aranges
+                0x0000000000000e30       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_aranges
+                0x0000000000000e60       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_aranges
+                0x0000000000000e90       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_aranges
+                0x0000000000000ec0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_aranges
+                0x0000000000000ef0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_aranges
+                0x0000000000000f20       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_aranges
+                0x0000000000000f50       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_aranges
+                0x0000000000000f80       0x20 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_aranges
+                0x0000000000000fa0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_aranges
+                0x0000000000000fd0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_aranges
+                0x0000000000001000       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_aranges
+                0x0000000000001030       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_aranges
+                0x0000000000001060       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_aranges
+                0x0000000000001090       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_aranges
+                0x00000000000010c0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .debug_aranges
+                0x00000000000010f0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_aranges
+                0x0000000000001120       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_aranges
+                0x0000000000001150       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_aranges
+                0x0000000000001180       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_aranges
+                0x00000000000011b0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_aranges
+                0x00000000000011e0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_aranges
+                0x0000000000001210       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_aranges
+                0x0000000000001240       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_aranges
+                0x0000000000001270       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_aranges
+                0x00000000000012a0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_aranges
+                0x00000000000012d0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0xcf5c2
+ *(.debug_info)
+ .debug_info    0x0000000000000000    0xb679a /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+ .debug_info    0x00000000000b679a      0xcee /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_info    0x00000000000b7488      0x887 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_info    0x00000000000b7d0f      0xa7c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_info    0x00000000000b878b      0xa06 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_info    0x00000000000b9191      0xa9f /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_info    0x00000000000b9c30      0xc14 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_info    0x00000000000ba844      0x991 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_info    0x00000000000bb1d5     0x13bd /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_info    0x00000000000bc592      0xd10 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_info    0x00000000000bd2a2     0x2cfa /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_info    0x00000000000bff9c      0x299 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_info    0x00000000000c0235      0x2c0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_info    0x00000000000c04f5      0x29b /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_info    0x00000000000c0790      0xc25 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_info    0x00000000000c13b5      0xb02 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_info    0x00000000000c1eb7      0x9f7 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_info    0x00000000000c28ae      0x9bc /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_info    0x00000000000c326a      0x98f /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_info    0x00000000000c3bf9      0xcc8 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_info    0x00000000000c48c1      0xab9 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_info    0x00000000000c537a      0xa07 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_info    0x00000000000c5d81      0xa49 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_info    0x00000000000c67ca      0xa0e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_info    0x00000000000c71d8      0x502 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_info    0x00000000000c76da     0x3240 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_info    0x00000000000ca91a       0x2e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_info    0x00000000000ca948       0x2e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_info    0x00000000000ca976     0x14a8 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_info    0x00000000000cbe1e       0x2e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_info    0x00000000000cbe4c      0x9d4 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_info    0x00000000000cc820       0x2e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_info    0x00000000000cc84e      0x103 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_info    0x00000000000cc951       0x2e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_info    0x00000000000cc97f       0x2e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_info    0x00000000000cc9ad      0xe40 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_info    0x00000000000cd7ed      0xdcd /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_info    0x00000000000ce5ba      0x3b4 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_info    0x00000000000ce96e       0x2e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_info    0x00000000000ce99c       0x2e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .debug_info    0x00000000000ce9ca       0x2e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_info    0x00000000000ce9f8       0x2e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_info    0x00000000000cea26       0x2e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_info    0x00000000000cea54       0x2e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_info    0x00000000000cea82       0x2e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_info    0x00000000000ceab0       0x2e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_info    0x00000000000ceade       0x2e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_info    0x00000000000ceb0c       0x2e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_info    0x00000000000ceb3a       0x2e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_info    0x00000000000ceb68       0x2e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_info    0x00000000000ceb96      0xa2c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.debug_abbrev   0x0000000000000000    0x154f5
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000    0x11067 /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+ .debug_abbrev  0x0000000000011067      0x27c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_abbrev  0x00000000000112e3      0x165 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_abbrev  0x0000000000011448      0x269 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_abbrev  0x00000000000116b1      0x1ff /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_abbrev  0x00000000000118b0      0x241 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_abbrev  0x0000000000011af1      0x233 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_abbrev  0x0000000000011d24      0x1d0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_abbrev  0x0000000000011ef4      0x289 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_abbrev  0x000000000001217d      0x305 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_abbrev  0x0000000000012482      0x382 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_abbrev  0x0000000000012804      0x105 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_abbrev  0x0000000000012909       0xea /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_abbrev  0x00000000000129f3      0x105 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_abbrev  0x0000000000012af8      0x25a /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_abbrev  0x0000000000012d52      0x230 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_abbrev  0x0000000000012f82      0x1cd /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_abbrev  0x000000000001314f      0x1bc /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_abbrev  0x000000000001330b      0x1be /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_abbrev  0x00000000000134c9      0x2ce /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_abbrev  0x0000000000013797      0x1f8 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_abbrev  0x000000000001398f      0x1cf /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_abbrev  0x0000000000013b5e      0x1da /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_abbrev  0x0000000000013d38      0x1d4 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_abbrev  0x0000000000013f0c      0x28b /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_abbrev  0x0000000000014197      0x455 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_abbrev  0x00000000000145ec       0x14 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_abbrev  0x0000000000014600       0x14 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_abbrev  0x0000000000014614      0x2fc /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_abbrev  0x0000000000014910       0x14 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_abbrev  0x0000000000014924      0x1c2 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_abbrev  0x0000000000014ae6       0x14 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_abbrev  0x0000000000014afa       0x97 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_abbrev  0x0000000000014b91       0x14 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_abbrev  0x0000000000014ba5       0x14 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_abbrev  0x0000000000014bb9      0x25c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_abbrev  0x0000000000014e15      0x224 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_abbrev  0x0000000000015039      0x1f0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_abbrev  0x0000000000015229       0x14 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_abbrev  0x000000000001523d       0x14 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .debug_abbrev  0x0000000000015251       0x14 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_abbrev  0x0000000000015265       0x14 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_abbrev  0x0000000000015279       0x14 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_abbrev  0x000000000001528d       0x14 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_abbrev  0x00000000000152a1       0x14 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_abbrev  0x00000000000152b5       0x14 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_abbrev  0x00000000000152c9       0x14 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_abbrev  0x00000000000152dd       0x14 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_abbrev  0x00000000000152f1       0x14 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_abbrev  0x0000000000015305       0x14 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_abbrev  0x0000000000015319      0x1dc /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.debug_line     0x0000000000000000    0x2fc64
+ *(.debug_line)
+ .debug_line    0x0000000000000000    0x284fc /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+ .debug_line    0x00000000000284fc      0x3dd /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_line    0x00000000000288d9      0x26a /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_line    0x0000000000028b43      0x363 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_line    0x0000000000028ea6      0x344 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_line    0x00000000000291ea      0x39c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_line    0x0000000000029586      0x3f0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_line    0x0000000000029976      0x2d3 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_line    0x0000000000029c49      0x386 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_line    0x0000000000029fcf      0x46d /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_line    0x000000000002a43c      0x4e7 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_line    0x000000000002a923      0x10c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_line    0x000000000002aa2f      0x13e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_line    0x000000000002ab6d      0x10d /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_line    0x000000000002ac7a      0x332 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_line    0x000000000002afac      0x374 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_line    0x000000000002b320      0x2e9 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_line    0x000000000002b609      0x2f1 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_line    0x000000000002b8fa      0x2f7 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_line    0x000000000002bbf1      0x379 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_line    0x000000000002bf6a      0x342 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_line    0x000000000002c2ac      0x2fa /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_line    0x000000000002c5a6      0x306 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_line    0x000000000002c8ac      0x2fb /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_line    0x000000000002cba7      0x235 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_line    0x000000000002cddc      0x645 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_line    0x000000000002d421       0x5a /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_line    0x000000000002d47b       0x5a /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_line    0x000000000002d4d5      0x479 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_line    0x000000000002d94e       0x5a /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_line    0x000000000002d9a8      0x337 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_line    0x000000000002dcdf       0x58 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_line    0x000000000002dd37       0x75 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_line    0x000000000002ddac       0x63 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_line    0x000000000002de0f       0x71 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_line    0x000000000002de80      0x36a /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_line    0x000000000002e1ea      0x455 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_line    0x000000000002e63f      0x138 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_line    0x000000000002e777      0x492 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_line    0x000000000002ec09      0x528 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .debug_line    0x000000000002f131      0x127 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_line    0x000000000002f258       0xd5 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_line    0x000000000002f32d      0x14d /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_line    0x000000000002f47a       0xe0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_line    0x000000000002f55a       0xa7 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_line    0x000000000002f601       0xb8 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_line    0x000000000002f6b9       0x97 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_line    0x000000000002f750       0x82 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_line    0x000000000002f7d2      0x100 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_line    0x000000000002f8d2       0xa9 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_line    0x000000000002f97b      0x2e9 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000    0x8139a
+ *(.debug_str)
+ .debug_str     0x0000000000000000    0x6e8d7 /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+ .debug_str     0x000000000006e8d7      0x95d /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_str     0x000000000006f234      0x6f0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_str     0x000000000006f924      0x829 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_str     0x000000000007014d      0x7f9 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_str     0x0000000000070946      0x7f7 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_str     0x000000000007113d      0x962 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_str     0x0000000000071a9f      0x75f /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_str     0x00000000000721fe      0xe8e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_str     0x000000000007308c      0x8f3 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_str     0x000000000007397f     0x1ec7 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_str     0x0000000000075846      0x310 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_str     0x0000000000075b56      0x34f /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_str     0x0000000000075ea5      0x313 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_str     0x00000000000761b8      0x891 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_str     0x0000000000076a49      0x7f5 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_str     0x000000000007723e      0x7d6 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_str     0x0000000000077a14      0x7c5 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_str     0x00000000000781d9      0x7da /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_str     0x00000000000789b3      0x8c7 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_str     0x000000000007927a      0x86d /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_str     0x0000000000079ae7      0x7fe /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_str     0x000000000007a2e5      0x826 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_str     0x000000000007ab0b      0x801 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_str     0x000000000007b30c      0x388 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_str     0x000000000007b694     0x235d /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_str     0x000000000007d9f1       0x56 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_str     0x000000000007da47       0x56 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_str     0x000000000007da9d      0xbed /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_str     0x000000000007e68a       0x57 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_str     0x000000000007e6e1      0x7b7 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_str     0x000000000007ee98       0x57 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_str     0x000000000007eeef      0x23d /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_str     0x000000000007f12c       0x50 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_str     0x000000000007f17c       0x53 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_str     0x000000000007f1cf      0x915 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_str     0x000000000007fae4      0x960 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_str     0x0000000000080444      0x317 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_str     0x000000000008075b       0x50 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcmp-sse2.os)
+ .debug_str     0x00000000000807ab       0x50 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strncmp-sse2.os)
+ .debug_str     0x00000000000807fb       0x5d /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memchr-sse2.os)
+ .debug_str     0x0000000000080858       0x60 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rawmemchr-sse2.os)
+ .debug_str     0x00000000000808b8       0x50 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memcmp-sse2.os)
+ .debug_str     0x0000000000080908       0x5d /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strchr-sse2.os)
+ .debug_str     0x0000000000080965       0x5e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strlen-sse2.os)
+ .debug_str     0x00000000000809c3       0x6b /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strnlen-sse2.os)
+ .debug_str     0x0000000000080a2e       0x50 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stpcpy-sse2.os)
+ .debug_str     0x0000000000080a7e       0x51 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strcspn-sse2.os)
+ .debug_str     0x0000000000080acf       0x6e /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memmove-sse2-unaligned-erms.os)
+ .debug_str     0x0000000000080b3d       0x6d /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-memset-sse2-unaligned-erms.os)
+ .debug_str     0x0000000000080baa      0x7f0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.debug_loc      0x0000000000000000    0x4ca8c
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000    0x49920 /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+ .debug_loc     0x0000000000049920      0x1bd /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_loc     0x0000000000049add       0xc9 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_loc     0x0000000000049ba6       0x52 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_loc     0x0000000000049bf8      0x1f6 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_loc     0x0000000000049dee       0xe3 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_loc     0x0000000000049ed1      0x1b7 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_loc     0x000000000004a088      0x10a /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_loc     0x000000000004a192      0x2f7 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_loc     0x000000000004a489       0xa4 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_loc     0x000000000004a52d       0xb9 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_loc     0x000000000004a5e6       0xa4 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_loc     0x000000000004a68a      0x228 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_loc     0x000000000004a8b2      0x1c2 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_loc     0x000000000004aa74       0xb9 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_loc     0x000000000004ab2d       0x94 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_loc     0x000000000004abc1       0x6f /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_loc     0x000000000004ac30      0x3d0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_loc     0x000000000004b000      0x2e2 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_loc     0x000000000004b2e2       0xb9 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_loc     0x000000000004b39b      0x12d /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_loc     0x000000000004b4c8       0xb9 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_loc     0x000000000004b581      0x3b8 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_loc     0x000000000004b939      0x573 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_loc     0x000000000004beac      0x54a /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_loc     0x000000000004c3f6      0x16c /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_loc     0x000000000004c562      0x11b /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_loc     0x000000000004c67d      0x295 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_loc     0x000000000004c912       0xc1 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_loc     0x000000000004c9d3       0xb9 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0xc470
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000     0xbe30 /workspaces/Portefolio/glibc-2.34/build/elf/dl-allobjs.os
+ .debug_ranges  0x000000000000be30       0xa0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_ranges  0x000000000000bed0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_ranges  0x000000000000bf00       0x60 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_ranges  0x000000000000bf60       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_ranges  0x000000000000bf90       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_ranges  0x000000000000bfc0       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_ranges  0x000000000000bff0       0x60 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_ranges  0x000000000000c050       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_ranges  0x000000000000c080       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_ranges  0x000000000000c0b0       0x70 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_ranges  0x000000000000c120       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_ranges  0x000000000000c150       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_ranges  0x000000000000c180       0x40 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_ranges  0x000000000000c1c0       0xc0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_ranges  0x000000000000c280       0xd0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_ranges  0x000000000000c350       0xf0 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_ranges  0x000000000000c440       0x30 /workspaces/Portefolio/glibc-2.34/build/elf/rtld-libc.a(rtld-setitimer.os)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+OUTPUT(/workspaces/Portefolio/glibc-2.34/build/elf/librtld.os elf64-x86-64)

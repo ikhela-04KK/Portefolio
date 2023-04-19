@@ -97,11 +97,6 @@ h3{
 
 /* todo: fin de création */
 
-/* todo: creation du splash-screen  */
-/* font-family: 'Fira Code', monospace;
-font-family: 'Lato', sans-serif;
-font-family: 'Poppins', sans-serif; */
-
 /* splash screen   */
 .intro{
   position:fixed;
@@ -148,10 +143,8 @@ font-family: 'Poppins', sans-serif; */
   opacity: 0;
   transition:ease-in-out 0.5s;
 }
-
-
-
 /* fin de creation du splash-screen */
+
 
 
 /* todo; Header */
@@ -170,11 +163,11 @@ header.sp-s{ /*for sps-s*/
   top: 0;
 }
 
-}
+
 header .div1 { 
   grid-area: 1 / 1 / 6 / 2; 
 }
-haeder .div2 { 
+header .div2 { 
   grid-area: 1 / 5 / 6 / 6; 
   height:649px;
 }
@@ -243,7 +236,6 @@ header .div5 .btn{
     border-width: 1px;
     border-color: #FF7F7F;
     border-radius: 40px;
-/*     background-color: #fff; */
     color: #fff;
     font-size: 14px;
     font-weight: 700;
@@ -317,8 +309,7 @@ header nav .navbar_left ul li a{
 /* todo debut du ALLprest   */
 
 /* Apropos */
-section.grp-allprest {
-/*   background: hsl(300deg 2% 12%); */
+.grp-allprest {
   background: #FFC2C2;
   background:#FF7F7F;
   background: #FFA07A;
@@ -355,16 +346,21 @@ section.grp-allprest {
   padding: 30px;text-align: center;
 }
 .row-page {
-  max-width: 598px;
+  max-width: 400px;
 }
 .row-page p {
 
-  color: hsl(0deg 0% 100%);
-  font-weight: bold;
+  color: #1f1e1f;
+  font-weight: lighter;
   margin: 20px;
-  font-family:'Lato';
   font-size: larger;
   letter-spacing: 1px;
+  font-size:0.5rem; /*pour ajuster la taille de l'élément*/
+}
+
+.row-page b{
+  color:#1f1e1f;
+  text-transform: uppercase;
 }
 
 .row-page h2 {
@@ -705,7 +701,6 @@ footer ul{
     left: 47px;
   }
 
-::before {}
   .content-web ul li{
     width: 100%;
   }
@@ -782,7 +777,7 @@ footer ul{
     left:17px;
   }
 }
-@media(max-width:max-width:314px){
+@media(max-width:314px){
   .nom{
     font-size:34px;
   }

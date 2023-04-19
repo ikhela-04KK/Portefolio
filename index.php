@@ -5,6 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Portefolio Ikhela</title>
+
+    <!-- font awesome  -->
+    <script src="https://kit.fontawesome.com/a014666b37.js" crossorigin="anonymous"></script>
+
     <!-- police prise sur google fonts  -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -13,13 +17,9 @@
       rel="stylesheet"
     />
   
-    <script
-      src="https://kit.fontawesome.com/3e4174c3da.js"
-      crossorigin="anonymous"
-    ></script>
-
     <!-- pour le designs-->
     <link rel="stylesheet" href="styles.css" />
+
 
     <!-- Hotjar Tracking Code for my site -->
     <script>
@@ -38,6 +38,7 @@
       })(window, document, "https://static.hotjar.com/c/hotjar-", ".js?sv=");
     </script>
 
+
     <!-- Google tag (gtag.js) -->
     <script
       async
@@ -49,19 +50,25 @@
         dataLayer.push(arguments);
       }
       gtag("js", new Date());
-
       gtag("config", "G-Q901Y93185");
     </script>
   </head>
+
+
   <body>
+
+    <!-- checkbox à supprimer  -->
     <input type="checkbox" id="checkbox" />
     <label for="checkbox" class="checkboxs">
       <span></span>
       <span></span>
     </label>
-    <!-- 23_03_2022 à 17h:07 création de son portefolio -->
-    <!-- construction du splash screen-->
 
+
+    <!-- 23_03_2022 à 17h:07 création de son portefolio -->
+    <!-- 15/04/2023 à 19h:37 la modification du portefolio -->
+
+    <!-- construction du splash screen-->
     <div class="intro">
       <h1 class="logo-header">
         <span class="logo">ik</span><span class="logo">he.</span>
@@ -178,10 +185,16 @@
         </div>
       </h1>
     </div>
+
+    <!-- debut du header -->
     <header class="sp-s">
-      <!-- pour les espaces de 205px à droite et à gauche-->
+
+      <!-- pour les espaces à droite et à gauche -->
+      <!-- barre de defilement/icônes de défilement -->
       <div class="div1"></div>
       <div class="div2"></div>
+
+      <!-- Container de présentation -->
       <div class="div4">
         <div class="info">
           <h1>Hi Marc-Ephrem , i'm Web Developer</h1>
@@ -189,6 +202,8 @@
           <a href="#" class="btn-info">HIRE ME</a>
         </div>
       </div>
+
+      <!-- pour le boutton curriculum vitae  -->
       <div class="div5">
         <a href="#" class="btn" title="curriculum Vitae">Curriuclum Vitae</a>
       </div>
@@ -206,11 +221,15 @@
           </ul>
         </div>
       </nav>
+      <!-- fin de la navbar -->
+    
     </header>
+
     <!--todo: Fin du conteneur -->
     <!--Presentation-->
     <section class="grp-allprest">
       <div class="Allprest">
+
         <!--bref resumé de ma personnalité et des services que je proposes-->
         <div class="Apropos">
           <div class="Ap">
@@ -218,6 +237,8 @@
             <h5>Developer Frontend & Backend</h5>
           </div>
         </div>
+
+
         <div class="page">
           <div class="row-page">
             <h1>01.</h1>
@@ -241,10 +262,13 @@
               mon <b>BAC serie C</b> jusqu'à présent.
             </p>
           </div>
+
+
           <div class="svig">
             <img src="../image/building_websites.svg" alt="" />
           </div>
         </div>
+
         <div class="page rigth">
           <div class="row-page">
             <h1>02.</h1>
@@ -267,10 +291,13 @@
               qualité des tâches de l'entreprise.
             </p>
           </div>
+
+
           <div class="svig">
             <img src="../image/design_process.svg" alt="" />
           </div>
         </div>
+
         <div class="page">
           <div class="row-page">
             <h1>03.</h1>
@@ -291,12 +318,16 @@
               délà.
             </p>
           </div>
+
+
           <div class="svig">
             <img src="../image/developer_activity.svg" alt="" />
           </div>
         </div>
       </div>
     </section>
+
+
     <!-- todo debut block competence avec timeline -->
     <section class="content-web">
       <ul>
@@ -383,6 +414,8 @@
     </section>
     <!-- todo: fin du block competence -->
     <!--? fin parcours -->
+
+
     <!--?contactez-moi(nom, prenom, mail, numero_tel)-->
     <section class="contactez-moi">
       <form
@@ -417,10 +450,13 @@
       </form>
     </section>
 
+
     <!--?fin de la partir=e contactez-moi -->
     <footer>
-      <!-- <div class="containers"> -->
+
       <div class="row">
+      
+        <!-- installer icônes avec fontawesomes -->
         <!--?email & reseaux-->
         <div class="row-footer">
           <h4>reseaux sociaux</h4>
@@ -441,6 +477,7 @@
             </ul>
           </div>
         </div>
+
         <div class="row-footer">
           <h4>get help</h4>
           <ul>
@@ -452,6 +489,8 @@
           </ul>
         </div>
         <!--?fin email & réseaux -->
+
+        <!-- où je proposes mes services   -->
         <div class="row-footer">
           <h4>Get Service</h4>
           <ul>
@@ -462,6 +501,7 @@
             <li><a href="">referencement</a></li>
           </ul>
         </div>
+
         <!--todo: --communauté-->
         <div class="row-footer">
           <h4>communauté</h4>
@@ -480,18 +520,24 @@
             </li>
           </ul>
         </div>
+
       </div>
-      <!-- </div> -->
-      <!-- 
-                <div>
-                    
-                <p class="end">CopyRight &copy;2022 By Ikhela-04KK</p>
-            </div> -->
+    
+      <!-- pour le copyright -->
+      <div>            
+        <p class="end">CopyRight &copy;2023 By Ikhela-04KK</p>
+      </div>
+
       <!--todo: fin communauté-->
     </footer>
+
     <!--Fin terminer le html le 25-03-2022 à 19:01 | il reste bien sur des corrections à apporter pour le referencemet-->
     <!--Modifications le 27-03-2022> -->
+    <!-- reprise du code en ajoutant une API/bd/env cloud/server/mysql -->
+
+    <!-- pour le splash screen -->
     <script src="./main-sps.js"></script>
+
   </body>
 </html>
 
